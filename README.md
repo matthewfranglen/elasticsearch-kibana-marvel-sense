@@ -1,7 +1,7 @@
 Kibana Marvel & Sense with Elastic Search
 =========================================
 
-This runs an elasticsearch with kibana for visualiation.
+This runs an elasticsearch with kibana for seeing what you have in the thing, you know?
 The plugins marvel and sense are installed.
 
 Running
